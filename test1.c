@@ -1,3 +1,4 @@
+// cc -o test1_3204 test1.c -DMCP3204
 #include <fcntl.h>
 #include <sys/ioctl.h>
 #include <stdio.h>
