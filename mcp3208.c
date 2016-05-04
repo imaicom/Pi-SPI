@@ -10,7 +10,7 @@
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License.
  *
- * Compile on Raspberry Pi by gcc mcp3208 -o mcp3208.c
+ * Compile on Raspberry Pi by gcc mcp3208.c -o mcp3208
  */
 
 #include <stdint.h>
