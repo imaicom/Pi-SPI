@@ -1,3 +1,4 @@
+// gcc -o adc adc.c -lwiringPi
 #include <stdio.h>
 #include <stdlib.h>
 #include <wiringPi.h>
