@@ -1,4 +1,4 @@
-# Raspberry-Pi-MCP3208
+# Raspberry-Pi-SPI
 
 
 SPI LOOPBACK TEST
